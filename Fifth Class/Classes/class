@@ -1,0 +1,13 @@
+Every Class you create is
+Instantiation is the act of creating an object in a class
+
+
+
+Assignment
+
+Create an Encapsulated Class for a Customer
+name, id, phone number, email.
+Write a Method to calculate customer discount for customers over 20 yrs and has transacted over 100 million. Give 5 percent discount.
+
+Write a polymorpic class for a vehicle - Could be car, bus, Suv, Tricycle.
+Type, colour
